@@ -3,7 +3,7 @@
 Run the following shell command after cloning this repo in your home directory:
 
 ```
-cp ./polyrainVim/.vim ./
+cp -r ./polyrainVim/.vim ./
 cp ./polyrainVim/.vimrc ./
 ```
 
