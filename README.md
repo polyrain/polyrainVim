@@ -17,9 +17,13 @@ Your vim should now look like this:
 
 ![Final vim](https://i.imgur.com/vElamlq.png)
 
+## Usage
+
+nerdtree is config'd to open on *Ctrl + o*. You can modify this in the .vimrc.
+
 # Troubleshooting
 
-## YCM compiled with python2
+## YCM compiled with python2/core dumped
 
 Simply run `brew install python` if it's not already downloaded, then run the following shell command:
 
