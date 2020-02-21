@@ -21,6 +21,8 @@ Your vim should now look like this:
 
 nerdtree is config'd to open on *Ctrl + o*. You can modify this in the .vimrc.
 
+Shift + L or H moves between tabs in vim, right or left respectively.
+
 # Troubleshooting
 
 ## YCM compiled with python2/core dumped
