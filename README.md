@@ -7,7 +7,7 @@ cp -r ./polyrainVim/.vim ./
 cp ./polyrainVim/.vimrc ./
 ```
 
-Then, type vim <file> to open vim. Once opened, type the following
+Then, type `vim <file>` to open vim. Once opened, type the following
 
 `:PlugInstall`
 
